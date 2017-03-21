@@ -1,3 +1,6 @@
+Requirements:
+Tested on ruby 2.3.1p112
+
 Usage:
 gem install bundle
 bundle install
